@@ -42,11 +42,9 @@ An interactive Starbucks Analytics Dashboard built using **Microsoft Power BI** 
 
 Developed practical skills in Power BI dashboard design, DAX measures, KPI creation, interactive filtering, and data storytelling to present insights effectively.
 
-👩‍💻 Author
+## 👩‍💻 Author
 Manmeet Kaur
-
-Data Analyst | Machine Learning & Data Analytics
-
+Data Analyst
 
 LinkedIn (www.linkedin.com/in/manmeet031195)
 
