@@ -44,6 +44,7 @@ Developed practical skills in Power BI dashboard design, DAX measures, KPI creat
 
 ## 👩‍💻 Author
 Manmeet Kaur
+
 Data Analyst
 
 LinkedIn (www.linkedin.com/in/manmeet031195)
