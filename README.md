@@ -47,6 +47,5 @@ Manmeet Kaur
 
 Data Analyst
 
-LinkedIn (www.linkedin.com/in/manmeet031195)
 
 <i>This project was created for learning and portfolio development.</i>
